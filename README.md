@@ -1,2 +1,3 @@
 # thursday-29
-mock repo for demo
+## here we have an HTML file
+### hello we are now smaller
